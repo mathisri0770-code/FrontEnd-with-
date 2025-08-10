@@ -1,25 +1,4 @@
 This project is a React-based web application showcasing services, events, and registration details with a modern UI. It uses modular components, dynamic data loading, and CSS Modules for styling.
-src/
-│
-├── Pages/
-│   ├── components/
-│   │   ├── Hero.jsx
-│   │   ├── Section.jsx
-│   │   ├── CardGrid.jsx
-│   │   ├── FeedbackForm.jsx
-│   │   ├── About.jsx
-│   │   └── FigmaEmbed.jsx
-│   │
-│   ├── data/
-│   │   ├── events.js
-│   │   ├── services.js
-│   │   ├── currentServices.js
-│   │   └── registration.js
-│   │
-│   ├── App.module.css
-│
-├── App.jsx
-└── index.js
 
 >>Features
 Hero Section – Displays the main banner with key highlights.
